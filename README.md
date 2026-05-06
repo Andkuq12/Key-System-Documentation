@@ -439,4 +439,4 @@ A: It reads the key saved on the user's device from a previous session, so users
 ---
 
 *Grandfuscator*  
-*For support or questions, visit the panel or join the Discord.*
+*For support or questions, visit my [website](https://www.grandfuscator.my.id) or join the [Discord](https://discord.gg/fJSftJ7bbB).*
