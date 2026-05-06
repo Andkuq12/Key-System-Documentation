@@ -1,5 +1,5 @@
-# 🔑 Key Page — Full Documentation
-
+# 🔑 Key validation Documentation
+[Grandfuscator Key Manager Free](https://www.grandfuscator.my.id/?view=freekeymanager)
 > **Grandfuscator**  
 > Protect your Lua scripts with a key validation system.
 
