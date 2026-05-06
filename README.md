@@ -106,7 +106,7 @@ The **Grandfuscator library** is the easiest way to add key validation.
 ### Options load library
 1. using require
 ```lua
-local grandfuscator = require("grandfuscator")
+local grandfuscator = require("grandfuscator_lib")
 ```
 2. using load file
 ```lua
@@ -135,7 +135,7 @@ local lib = loadlibrary("grandfuscator_lib")
 ```
 3. using fetch 
 ```lua
-local raw = fetch("https://example.com/keylib.lua")
+local raw = fetch("https://example.com/grandfuscator_lib.lua")
 local lib = load(raw)()
 ```
 
