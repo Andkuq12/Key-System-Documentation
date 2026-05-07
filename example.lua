@@ -5,8 +5,7 @@ itemID = 8641
 
 takingMode = false
 droppingMode = false
--- fetch("https://backup-grandfuscator.vercel.app/raw/Grandfuscator_lib.lua")
--- fetch("https://raw.githubusercontent.com/Andkuq12/Key-System-Documentation/refs/heads/main/grandfuscator_lib.lua")
+
 function loadGrandfuscatorLib()
     local raw, err = fetch("https://raw.githubusercontent.com/Andkuq12/Key-System-Documentation/refs/heads/main/grandfuscator_lib.lua")
     if not raw then
